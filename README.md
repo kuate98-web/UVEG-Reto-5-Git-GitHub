@@ -16,3 +16,5 @@ Practicar el uso de Git y GitHub para administrar las versiones de un proyecto.
 
 Se realizan modificaciones en esta rama antes de
 integrarlas a la version principal del proyecto.
+
+Cambio de prueba realizado en la rama pruebas.
