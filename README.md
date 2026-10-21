@@ -11,3 +11,8 @@ Practicar el uso de Git y GitHub para administrar las versiones de un proyecto.
 - Modificar y guardar archivos.
 - Crear ramas para realizar pruebas.
 - Integrar cambios en la rama principal.
+
+## Pruebas
+
+Se realizan modificaciones en esta rama antes de
+integrarlas a la version principal del proyecto.
